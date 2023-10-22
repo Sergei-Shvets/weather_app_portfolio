@@ -1,4 +1,4 @@
-This is a weather application, that created with ReactJS, TypeScript and TailwindCSS. It also runs on node 18 (see .nvmrc) and has a formatter "prettier". 
+This is a weather application, that created with ReactJS, TypeScript and TailwindCSS. It also runs on node 18 (see .nvmrc). 
 The data for this app received from The OpenWeather API.
 You can find any city all over the world.
 But, please, pay attention, that the weather on the app can be different from the real one))) Because the data on the server is not always fully correct)))
