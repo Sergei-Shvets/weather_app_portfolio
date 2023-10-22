@@ -14,3 +14,5 @@ After you got nvm installed on your machine, run `nvm i` and then `nvm use` (to 
 After you get the correct node version, run `npm i` to install all the required dependencies.
 
 After everything is installed, run `npm run start`.
+
+![Screenshot](https://github.com/Sergei-Shvets/weather_app_portfolio/blob/main/scr.jpg)
