@@ -15,6 +15,8 @@ After you get the correct node version, run `npm i` to install all the required 
 
 After everything is installed, run `npm run start`.
 
+Screenshots are below
+
 ![Screenshot](https://github.com/Sergei-Shvets/weather_app_portfolio/blob/main/scr.jpg)
 
 ![Screenshot](https://github.com/Sergei-Shvets/weather_app_portfolio/blob/main/scr_2.jpg)
